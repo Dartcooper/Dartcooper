@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello There!
+
+## I'm Cooper LaPorte!
+
+### I am a CS and Math double major at Dartmouth College and plan to go into Software Engineering
+You can reach me at 'cooperlaporte03@gmail.com'
 
 <!--
 **Dartcooper/Dartcooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
